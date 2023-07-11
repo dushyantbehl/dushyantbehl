@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 👋 I’m Dushyant.
+I’m Dushyant.
 
 - 🔭 I work as a Software Engineer at IBM Research on multi cloud networking and observability. My current work focuses on multi cloud network observability and I contribute to [Openshift Network Observability](https://github.com/netobserv).
 
