@@ -6,12 +6,9 @@ I’m Dushyant.
 
 - 🌱 I'm also a part of [ebpfDevSecOps](https://github.com/eBPFDevSecTools) organization where we develop tools and frameworks to help developers and operators maintain the lifecycle of their eBPF programs, providing correctness and safety guarantees that enables confident adoption and deployment of 3rd party eBPF programs. 
 
-- 👯 I am open to collaborate on [ebpfDevSecOps](https://github.com/eBPFDevSecTools) and ebpf in general.
+- 👯 We are open to collaborate on [ebpfDevSecOps](https://github.com/eBPFDevSecTools)
 
 - 💬 More information about me can be found on my [IBM Research page](https://research.ibm.com/people/dushyant-behl).
-
-
-
 
 <!--
 **dushyantbehl/dushyantbehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
